@@ -5,13 +5,13 @@ Also, not about another GP (Gaussian Process).
 # venues
 
 Conference ranking http://www.conferenceranks.com/#data
-A: CEC http://cec2019.org/ 
-A: GECCO https://gecco-2019.sigevo.org/index.html/HomePage 
-A: FOGA / Foundations of Genetic Algorithms	(Workshop and also a journal?) https://hpi.de/foga2019/
-B: EvoCOP / European Conference on Evolutionary Computation in Combinatorial Optimization http://www.evostar.org/2019/cfp_evocop.php -- collocated with EvoApplication, EuroGP, EvoMUSART
-B: EvoApplications http://www.evostar.org/2019/cfp_evoapps.php
-B: EuroGP / European Conference on Genetic Programming http://www.evostar.org/2019/cfp_eurogp.php
-C: EP / Annual Conference on Evolutionary Programming 
++ A: CEC http://cec2019.org/ 
++ A: GECCO https://gecco-2019.sigevo.org/index.html/HomePage 
++ A: FOGA / Foundations of Genetic Algorithms	(Workshop and also a journal?) https://hpi.de/foga2019/
++ B: EvoCOP / European Conference on Evolutionary Computation in Combinatorial Optimization http://www.evostar.org/2019/cfp_evocop.php -- collocated with EvoApplication, EuroGP, EvoMUSART
++ B: EvoApplications http://www.evostar.org/2019/cfp_evoapps.php
++ B: EuroGP / European Conference on Genetic Programming http://www.evostar.org/2019/cfp_eurogp.php
++ C: EP / Annual Conference on Evolutionary Programming 
 
 # Papers and recent work
 
